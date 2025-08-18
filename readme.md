@@ -1,9 +1,10 @@
 # ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving
 
 
-[**Paper**](https://arxiv.org/pdf/2508.11428)  
+[**\[Paper\]**](https://arxiv.org/pdf/2508.11428)  
 
 [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428) 
+
 **Jingyu Li**, **Bozhou Zhang**, **Xin Jin**, **Jiankang Deng**, **Xiatian Zhu**, **Li Zhang**
 
 arXiv 2025  
