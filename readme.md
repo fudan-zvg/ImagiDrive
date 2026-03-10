@@ -7,7 +7,7 @@
 
 **Jingyu Li**, **Bozhou Zhang**, **Xin Jin**, **Jiankang Deng**, **Xiatian Zhu**, **Li Zhang**
 
-<span style="color:gray">arXiv 2025</span>
+<span style="color:gray">ICRA 2026</span>
 
 
 ## Abstract
@@ -20,7 +20,26 @@ To address efficiency and predictive accuracy challenges inherent in this integr
 ![Teaser Figure](figs/pipeline.png)
 
 ## News
+2026.03, we release the pipeline code! 
+2026.01, the paper is accepted by ICRA2026.
 2025.08, the paper is released on arXiv, and the code will be made publicly available upon acceptance.
+
+## Quick start
+```bash
+conda create -n vla_gen python=3.10 -y
+conda activate vla_gen
+conda install -y pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+git clone https://github.com/OpenGVLab/InternVL.git
+cd InternVL
+pip install -r requirements.txt
+cd ..
+git clone https://github.com/OpenDriveLab/Vista.git
+cd Vista
+pip3 install -r requirements.txt
+cd ..
+python interence_v2.py
+```
+
 
 ## 📖 Citation
 
