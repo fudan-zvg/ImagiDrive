@@ -20,9 +20,9 @@ To address efficiency and predictive accuracy challenges inherent in this integr
 ![Teaser Figure](figs/pipeline.png)
 
 ## News
-2026.03, we release the pipeline code! 
-2026.01, the paper is accepted by ICRA2026.
-2025.08, the paper is released on arXiv, and the code will be made publicly available upon acceptance.
+- 2026.03: We release the pipeline code!
+- 2026.01: The paper is accepted by ICRA 2026.
+- 2025.08: The paper is released on arXiv, and the code will be made publicly available upon acceptance.
 
 ## Quick start
 ```bash
