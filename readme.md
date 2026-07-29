@@ -53,7 +53,6 @@ If you find our work useful, please cite:
   year={2025}
 }
 
-```bibtex
 @inproceedings{li2025imagidrive,
   title={ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving},
   author={Li, Jingyu and Zhang, Bozhou and Jin, Xin and Deng, Jiankang and Zhu, Xiatian and Zhang, Li},
